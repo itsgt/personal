@@ -9,13 +9,13 @@ I am a soon-to-be graduate student at Georgia Tech, where I will be studying Com
 
 ## Experience
 
-* **Student Researcher** // Coe College Physics Department // Cedar Rapids, IA // 2018-2021
-  * Studied glass science, primarily by creating and using NMR fitting software
-* **Maker Studio Manager** // Stewart Memorial Library - Coe College // Cedar Rapids, IA // 2019-2021
-  * Training/maintenance for 3D printers, laser cutter, sewing and embroidery machines
+* **Research Statistician Co-op Intern** // Corning Incorporated // 2022-present
 * **Glass Development Intern** // Corning Incorporated // 2021-2022
   * Designed, implemented, and trained on the use of front and back ends of a relational database for mechanical properties data. Developed graphical interfaces for efficient visualization and additional analysis of visual and numerical data from multiple instruments.
-* **Research Statistician Co-op Intern** // Corning Incorporated // 2022-present
+* **Maker Studio Manager** // Stewart Memorial Library - Coe College // Cedar Rapids, IA // 2019-2021
+  * Training/maintenance for 3D printers, laser cutter, sewing and embroidery machines
+* **Student Researcher** // Physics Department - Coe College // Cedar Rapids, IA // 2018-2021
+  * Studied glass science, primarily by creating and using NMR fitting software
 
 ## Papers
 
