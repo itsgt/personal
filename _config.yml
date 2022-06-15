@@ -1,0 +1,62 @@
+site: Ian T Slagle
+url: www.islagle.com
+title: Ian T Slagle
+description: Graduate student at Georgia Tech
+twitter:
+  username: iantslagle
+  card: summary
+  creator: iantslagle
+author:
+  twitter: iantslagle
+  name: Ian Slagle
+  avatar:
+  email: ian.t.slagle@gmail.com
+  url: islagle.com
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
