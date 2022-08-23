@@ -3,13 +3,15 @@ layout: page
 title: About Ian T. Slagle
 ---
 
-<a href="https://www.linkedin.com/in/iantslagle/" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-linkedin.svg" width="24" height="24" alt="Ionic LinkedIn logo" ></a> <a href="https://github.com/itscoe" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-github.svg" width="24" height="24" alt = "Ionic Github logo" ></a> <a href="https://twitter.com/iantslagle" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-twitter.svg" width="24" height="24" alt = "Ionic Twitter logo" ></a> <a href="mailto:ian.t.slagle@gmail.com" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/mail.svg" width="24" height="24" alt = "Ionic mail logo" ></a><span id="badgeCont855"><script type="text/javascript" src="https://publons.com/wos-op/mashlets?el=badgeCont855&rid=GNW-6719-2022&size=small"></script></span>
+<a href="https://www.linkedin.com/in/iantslagle/" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-linkedin.svg" width="24" height="24" alt="Ionic LinkedIn logo" ></a> <a href="https://github.com/itscoe" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-github.svg" width="24" height="24" alt = "Ionic Github logo" ></a> <a href="https://twitter.com/iantslagle" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-twitter.svg" width="24" height="24" alt = "Ionic Twitter logo" ></a> <a href="mailto:ian.t.slagle@gmail.com" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/mail.svg" width="24" height="24" alt = "Ionic mail logo" ></a><a href="https://scholar.google.com/citations?user=OMRzssMAAAAJ&sortby=pubdate" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic mail logo" ></a>
 
-I am a soon-to-be graduate student at Georgia Tech, where I will be studying Computational Sciences & Engineering (Materials Science & Engineering). I recently graduated from Coe College with a Bachelor of Arts in Computer Science, Data Science, Mathematics, Physics, and Chemistry.
+I am a graduate student at Georgia Tech, where I will be studying for a PhD in Computational Sciences & Engineering 
+(Materials Science & Engineering). I recently graduated from Coe College with a Bachelor of Arts in Computer Science, 
+Data Science, Mathematics, Physics, and Chemistry.
 
 ## Experience
 
-* **Research Statistician Co-op Intern** // Corning Incorporated // 2022-present
+* **Research Statistician Co-op Intern** // Corning Incorporated // 2022-2022
 * **Glass Development Intern** // Corning Incorporated // 2021-2022
   * Designed, implemented, and trained on the use of front and back ends of a relational database for mechanical properties data. Developed graphical interfaces for efficient visualization and additional analysis of visual and numerical data from multiple instruments.
 * **Maker Studio Manager** // Stewart Memorial Library - Coe College // Cedar Rapids, IA // 2019-2021
@@ -27,6 +29,8 @@ I am a soon-to-be graduate student at Georgia Tech, where I will be studying Com
 
 | Year | Organization  | Recognition  |
 |---|---|---|
+| 2022  | Georgia Tech | President's Fellowship
+| 2022  | ACerS | Alfred R. Cooper Scholars Award, Second Runner-Up
 | 2022  |  NSF |  GRFP: Materials Research (Computationally Intensive Research) |
 | 2022  | Coe College  |  Ian T. Slagle Award |
 | 2022  | Coe College  | Physics Endowed Research Prize  |
