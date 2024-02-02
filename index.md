@@ -3,11 +3,18 @@ layout: page
 title: About Ian T. Slagle
 ---
 
-<a href="https://www.linkedin.com/in/iantslagle/" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-linkedin.svg" width="24" height="24" alt="Ionic LinkedIn logo" ></a> <a href="https://github.com/itscoe" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-github.svg" width="24" height="24" alt = "Ionic Github logo" ></a> <a href="https://twitter.com/iantslagle" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-twitter.svg" width="24" height="24" alt = "Ionic Twitter logo" ></a> <a href="mailto:ian.t.slagle@gmail.com" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/mail.svg" width="24" height="24" alt = "Ionic mail logo" ></a><a href="https://scholar.google.com/citations?user=OMRzssMAAAAJ&sortby=pubdate" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic mail logo" ></a>
+<a href="https://www.linkedin.com/in/iantslagle/" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-linkedin.svg" width="24" height="24" alt="Ionic LinkedIn logo" ></a> <a href="https://github.com/itsgt" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/logo-github.svg" width="24" height="24" alt = "Ionic Github logo" ></a><a href="mailto:ian.t.slagle@gmail.com" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/mail.svg" width="24" height="24" alt = "Ionic mail logo" ></a><a href="https://scholar.google.com/citations?hl=en&user=aUk0WAkAAAAJ&view_op=list_works&sortby=pubdate" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic document logo" ></a>
 
 I am a graduate student at Georgia Tech, where I will be studying for a PhD in Computational Sciences & Engineering 
 (Materials Science & Engineering). I recently graduated from Coe College with a Bachelor of Arts in Computer Science, 
 Data Science, Mathematics, Physics, and Chemistry.
+
+## Papers
+
+* **Journal of the American Ceramic Society** // Field strength effect on structure, hardness, and crack resistance in single modifier aluminoborosilicate glasses // <a href="https://doi.org/10.1111/jace.18796" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic document logo" ></a>
+* **Journal of Non-Crystalline Solids** // Structure of lead borate glasses by Raman, 11B MAS, and 207Pb NMR spectroscopies // <a href="https://doi.org/10.1016/j.jnoncrysol.2022.121660" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic document logo" ></a>
+* **Physics and Chemistry of Glasses B** // Comparisons of atomic arrangements in binary borate glasses with total, oxygen and modifier packing fractions // <a href="https://doi.org/10.13036/17533562.62.3.03" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic document logo" ></a>
+* **Solid State Ionics** // Lithium ion sites and their contribution to the ionic conductivity of R Li2O-B2O3 glasses with R ≤ 1.85 // <a href="https://doi.org/10.1016/j.ssi.2020.115530" ><img src="https://raw.githubusercontent.com/ionic-team/ionicons/main/src/svg/document-text.svg" width="24" height="24" alt = "Ionic document logo" ></a>
 
 ## Experience
 
@@ -18,12 +25,6 @@ Data Science, Mathematics, Physics, and Chemistry.
   * Training/maintenance for 3D printers, laser cutter, sewing and embroidery machines
 * **Student Researcher** // Physics Department - Coe College // Cedar Rapids, IA // 2018-2021
   * Studied glass science, primarily by creating and using NMR fitting software
-
-## Papers
-
-* **Journal of Non-Crystalline Solids** // Structure of lead borate glasses by Raman, 11B MAS, and 207Pb NMR spectroscopies
-* **Physics and Chemistry of Glasses B** // Comparisons of atomic arrangements in binary borate glasses with total, oxygen and modifier packing fractions
-* **Solid State Ionics** // Lithium ion sites and their contribution to the ionic conductivity of R Li2O-B2O3 glasses with R ≤ 1.85
 
 ## Recognition
 
