@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Introduction to this website
-description: A breif introduction to the pupose of this website, and what I'll be doing for the next five or so years of my life.
-summary: A breif introduction to the pupose of this website, and what I'll be doing for the next five or so years of my life.
+description: A brief introduction to the pupose of this website, and what I'll be doing for the next five or so years of my life.
+summary: A brief introduction to the pupose of this website, and what I'll be doing for the next five or so years of my life.
 tags: [frontend, design]
 ---
 
