@@ -31,6 +31,6 @@ Science Foundation Graduate Research Fellowship under
 Grant No. DGE-2039655
 >
 > Any opinion, findings, and conclusions or recommendations 
-expressed in this material are those of the authors(s) and 
+expressed in this material are those of the author and 
 do not necessarily reflect the views of the National 
 Science Foundation.
